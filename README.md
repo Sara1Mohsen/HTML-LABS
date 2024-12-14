@@ -1,5 +1,6 @@
 # HTML-LABS
 HTML Practice
+![6](https://github.com/user-attachments/assets/af7c7646-e073-4867-aac8-38f216fa3c1b)
 ![6](https://github.com/user-attachments/assets/7aab8fbe-e7fe-4e2b-82ca-18ed0f02f498)
 ![7](https://github.com/user-attachments/assets/bbcaf0e7-5263-44a6-80f3-9b6fa8bf020b)
 ![3](https://github.com/user-attachments/assets/4aff5b45-d261-4d72-be43-96839bcbb9d7)
